@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Login feature","Verify invalid login for multiple users | ilhan@sample.com | test123 |","0","0","5","0","0"
+"","Messenger page feature","Verify invalid login from messenger page","0","0","5","0","0"
+"","Login feature","Verify invalid login for multiple users | ismet@sample.com | asdr123 |","0","0","5","0","0"
+"","Login feature","Verify invalid login for multiple users | hasan@sample.com | wer1233 |","0","0","5","0","0"

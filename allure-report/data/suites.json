@@ -1,0 +1,281 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Verify invalid login for multiple users | ilhan@sample.com | test123 |",
+    "children" : [ {
+      "name" : "Given I am on home page",
+      "uid" : "7884d47e5af241a4",
+      "parentUid" : "3d1de583e4673940c751680595ca1e79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006410775,
+        "stop" : 1586006410777,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When I enter ilhan@sample.com into username text fields on home screen",
+      "uid" : "19eb6f4074f74ce1",
+      "parentUid" : "3d1de583e4673940c751680595ca1e79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006411119,
+        "stop" : 1586006411119,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I enter test123 into password text fields on home screen",
+      "uid" : "c0b32baae4337b",
+      "parentUid" : "3d1de583e4673940c751680595ca1e79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006411234,
+        "stop" : 1586006411234,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I click on login button on home screen",
+      "uid" : "56f5bcae38f1db5d",
+      "parentUid" : "3d1de583e4673940c751680595ca1e79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006411349,
+        "stop" : 1586006411349,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then I verify that I am in invalid login page",
+      "uid" : "dd187036e4fc3b30",
+      "parentUid" : "3d1de583e4673940c751680595ca1e79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006439740,
+        "stop" : 1586006439740,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3d1de583e4673940c751680595ca1e79"
+  }, {
+    "name" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |",
+    "children" : [ {
+      "name" : "Given I am on home page",
+      "uid" : "fd0d0733293b0d54",
+      "parentUid" : "bae943d3b51896556bc32a5d1fdb63ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006443265,
+        "stop" : 1586006443265,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When I enter hasan@sample.com into username text fields on home screen",
+      "uid" : "e01fa6821c68d24e",
+      "parentUid" : "bae943d3b51896556bc32a5d1fdb63ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006443609,
+        "stop" : 1586006443609,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I enter wer1233 into password text fields on home screen",
+      "uid" : "97202de3523f4754",
+      "parentUid" : "bae943d3b51896556bc32a5d1fdb63ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006443791,
+        "stop" : 1586006443791,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I click on login button on home screen",
+      "uid" : "6699366117a09b97",
+      "parentUid" : "bae943d3b51896556bc32a5d1fdb63ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006443901,
+        "stop" : 1586006443901,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then I verify that I am in invalid login page",
+      "uid" : "590a4b5788b8271f",
+      "parentUid" : "bae943d3b51896556bc32a5d1fdb63ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006471477,
+        "stop" : 1586006471477,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bae943d3b51896556bc32a5d1fdb63ea"
+  }, {
+    "name" : "Verify invalid login for multiple users | ismet@sample.com | asdr123 |",
+    "children" : [ {
+      "name" : "Given I am on home page",
+      "uid" : "ff9b72d4a8414f04",
+      "parentUid" : "ea5e5a2d294b150edcd38c2a83aa3cd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006474697,
+        "stop" : 1586006474697,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When I enter ismet@sample.com into username text fields on home screen",
+      "uid" : "b37aa9cc40140a8b",
+      "parentUid" : "ea5e5a2d294b150edcd38c2a83aa3cd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006475016,
+        "stop" : 1586006475016,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I enter asdr123 into password text fields on home screen",
+      "uid" : "5b4be0239a082f6e",
+      "parentUid" : "ea5e5a2d294b150edcd38c2a83aa3cd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006475203,
+        "stop" : 1586006475203,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I click on login button on home screen",
+      "uid" : "81cfdaa14edbd3d1",
+      "parentUid" : "ea5e5a2d294b150edcd38c2a83aa3cd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006475301,
+        "stop" : 1586006475301,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then I verify that I am in invalid login page",
+      "uid" : "a01c353965a15c7c",
+      "parentUid" : "ea5e5a2d294b150edcd38c2a83aa3cd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006480282,
+        "stop" : 1586006480282,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ea5e5a2d294b150edcd38c2a83aa3cd5"
+  }, {
+    "name" : "Verify invalid login from messenger page",
+    "children" : [ {
+      "name" : "Given I am on messenger page",
+      "uid" : "e1f2018abb139f2b",
+      "parentUid" : "76d3847fff26871a154ae77c2371081b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006485238,
+        "stop" : 1586006485238,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page",
+      "uid" : "1f99aed3f8b3c484",
+      "parentUid" : "76d3847fff26871a154ae77c2371081b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006485447,
+        "stop" : 1586006485447,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I enter test123 into password field on the messenger page",
+      "uid" : "fe5047f729a37df1",
+      "parentUid" : "76d3847fff26871a154ae77c2371081b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006485524,
+        "stop" : 1586006485524,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I click on login button on messenger page",
+      "uid" : "99a5b9c31ed56698",
+      "parentUid" : "76d3847fff26871a154ae77c2371081b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006487160,
+        "stop" : 1586006487160,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then I verify invalid login message on sign in page",
+      "uid" : "60833e6709a4037d",
+      "parentUid" : "76d3847fff26871a154ae77c2371081b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586006487192,
+        "stop" : 1586006487192,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "76d3847fff26871a154ae77c2371081b"
+  } ]
+}

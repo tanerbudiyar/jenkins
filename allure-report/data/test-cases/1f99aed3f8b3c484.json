@@ -1,0 +1,64 @@
+{
+  "uid" : "1f99aed3f8b3c484",
+  "name" : "When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page",
+  "fullName" : "Verify invalid login from messenger page.When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page",
+  "historyId" : "3af974e7b4c0f823237d5b8051418e8f",
+  "time" : {
+    "start" : 1586006485447,
+    "stop" : 1586006485447,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Messenger page feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Bobs-MBP.fios-router.home"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify invalid login from messenger page"
+  }, {
+    "name" : "thread",
+    "value" : "66598@Bobs-MBP.fios-router.home.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Verify invalid login from messenger page"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify invalid login from messenger page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page"
+  }, {
+    "name" : "package",
+    "value" : "Verify invalid login from messenger page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f99aed3f8b3c484.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "ff9b72d4a8414f04",
+  "name" : "Given I am on home page",
+  "fullName" : "Verify invalid login for multiple users | ismet@sample.com | asdr123 |.Given I am on home page",
+  "historyId" : "71af850f6b94d296a91e35e383793ed2",
+  "time" : {
+    "start" : 1586006474697,
+    "stop" : 1586006474697,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Login feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Bobs-MBP.fios-router.home"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify invalid login for multiple users | ismet@sample.com | asdr123 |"
+  }, {
+    "name" : "thread",
+    "value" : "66598@Bobs-MBP.fios-router.home.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Verify invalid login for multiple users | ismet@sample.com | asdr123 |"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify invalid login for multiple users | ismet@sample.com | asdr123 |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on home page"
+  }, {
+    "name" : "package",
+    "value" : "Verify invalid login for multiple users | ismet@sample.com | asdr123 |"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff9b72d4a8414f04.json",
+  "parameterValues" : [ ]
+}

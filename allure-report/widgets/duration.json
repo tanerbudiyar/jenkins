@@ -1,0 +1,201 @@
+[ {
+  "uid" : "56f5bcae38f1db5d",
+  "name" : "And I click on login button on home screen",
+  "time" : {
+    "start" : 1586006411349,
+    "stop" : 1586006411349,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe5047f729a37df1",
+  "name" : "And I enter test123 into password field on the messenger page",
+  "time" : {
+    "start" : 1586006485524,
+    "stop" : 1586006485524,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b4be0239a082f6e",
+  "name" : "And I enter asdr123 into password text fields on home screen",
+  "time" : {
+    "start" : 1586006475203,
+    "stop" : 1586006475203,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f99aed3f8b3c484",
+  "name" : "When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page",
+  "time" : {
+    "start" : 1586006485447,
+    "stop" : 1586006485447,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd0d0733293b0d54",
+  "name" : "Given I am on home page",
+  "time" : {
+    "start" : 1586006443265,
+    "stop" : 1586006443265,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6699366117a09b97",
+  "name" : "And I click on login button on home screen",
+  "time" : {
+    "start" : 1586006443901,
+    "stop" : 1586006443901,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97202de3523f4754",
+  "name" : "And I enter wer1233 into password text fields on home screen",
+  "time" : {
+    "start" : 1586006443791,
+    "stop" : 1586006443791,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff9b72d4a8414f04",
+  "name" : "Given I am on home page",
+  "time" : {
+    "start" : 1586006474697,
+    "stop" : 1586006474697,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1f2018abb139f2b",
+  "name" : "Given I am on messenger page",
+  "time" : {
+    "start" : 1586006485238,
+    "stop" : 1586006485238,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b37aa9cc40140a8b",
+  "name" : "When I enter ismet@sample.com into username text fields on home screen",
+  "time" : {
+    "start" : 1586006475016,
+    "stop" : 1586006475016,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a01c353965a15c7c",
+  "name" : "Then I verify that I am in invalid login page",
+  "time" : {
+    "start" : 1586006480282,
+    "stop" : 1586006480282,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0b32baae4337b",
+  "name" : "And I enter test123 into password text fields on home screen",
+  "time" : {
+    "start" : 1586006411234,
+    "stop" : 1586006411234,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60833e6709a4037d",
+  "name" : "Then I verify invalid login message on sign in page",
+  "time" : {
+    "start" : 1586006487192,
+    "stop" : 1586006487192,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e01fa6821c68d24e",
+  "name" : "When I enter hasan@sample.com into username text fields on home screen",
+  "time" : {
+    "start" : 1586006443609,
+    "stop" : 1586006443609,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81cfdaa14edbd3d1",
+  "name" : "And I click on login button on home screen",
+  "time" : {
+    "start" : 1586006475301,
+    "stop" : 1586006475301,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19eb6f4074f74ce1",
+  "name" : "When I enter ilhan@sample.com into username text fields on home screen",
+  "time" : {
+    "start" : 1586006411119,
+    "stop" : 1586006411119,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7884d47e5af241a4",
+  "name" : "Given I am on home page",
+  "time" : {
+    "start" : 1586006410775,
+    "stop" : 1586006410777,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99a5b9c31ed56698",
+  "name" : "And I click on login button on messenger page",
+  "time" : {
+    "start" : 1586006487160,
+    "stop" : 1586006487160,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "590a4b5788b8271f",
+  "name" : "Then I verify that I am in invalid login page",
+  "time" : {
+    "start" : 1586006471477,
+    "stop" : 1586006471477,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd187036e4fc3b30",
+  "name" : "Then I verify that I am in invalid login page",
+  "time" : {
+    "start" : 1586006439740,
+    "stop" : 1586006439740,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

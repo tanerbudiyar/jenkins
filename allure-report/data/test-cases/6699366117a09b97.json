@@ -1,0 +1,64 @@
+{
+  "uid" : "6699366117a09b97",
+  "name" : "And I click on login button on home screen",
+  "fullName" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |.And I click on login button on home screen",
+  "historyId" : "d3312b6bf0dd1ae81fd636feab2f2733",
+  "time" : {
+    "start" : 1586006443901,
+    "stop" : 1586006443901,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Login feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Bobs-MBP.fios-router.home"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "thread",
+    "value" : "66598@Bobs-MBP.fios-router.home.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on login button on home screen"
+  }, {
+    "name" : "package",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6699366117a09b97.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "3d1de583e4673940c751680595ca1e79",
+    "name" : "Verify invalid login for multiple users | ilhan@sample.com | test123 |",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "bae943d3b51896556bc32a5d1fdb63ea",
+    "name" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "ea5e5a2d294b150edcd38c2a83aa3cd5",
+    "name" : "Verify invalid login for multiple users | ismet@sample.com | asdr123 |",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "76d3847fff26871a154ae77c2371081b",
+    "name" : "Verify invalid login from messenger page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

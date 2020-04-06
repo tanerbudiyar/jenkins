@@ -1,0 +1,64 @@
+{
+  "uid" : "590a4b5788b8271f",
+  "name" : "Then I verify that I am in invalid login page",
+  "fullName" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |.Then I verify that I am in invalid login page",
+  "historyId" : "a6eedc7b00d2e419a6222c4d7fc808e9",
+  "time" : {
+    "start" : 1586006471477,
+    "stop" : 1586006471477,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Login feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Bobs-MBP.fios-router.home"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "thread",
+    "value" : "66598@Bobs-MBP.fios-router.home.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I verify that I am in invalid login page"
+  }, {
+    "name" : "package",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "590a4b5788b8271f.json",
+  "parameterValues" : [ ]
+}

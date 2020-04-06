@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b212ca5c-a8e4-49ac-95f5-864ad549403f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/19eb6f4074f74ce1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1f99aed3f8b3c484.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/56f5bcae38f1db5d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/590a4b5788b8271f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/5b4be0239a082f6e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/60833e6709a4037d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6699366117a09b97.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7884d47e5af241a4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/81cfdaa14edbd3d1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/97202de3523f4754.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/99a5b9c31ed56698.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/a01c353965a15c7c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/b37aa9cc40140a8b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/c0b32baae4337b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/dd187036e4fc3b30.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/e01fa6821c68d24e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/e1f2018abb139f2b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fd0d0733293b0d54.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fe5047f729a37df1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/ff9b72d4a8414f04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-31-19-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-03-31-19-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/pic-2020-04-04-07-46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.logs/application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/LoginSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/LoginSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/embedded0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/CucumberBDDFramework_20.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/webPages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinition/LoginSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinition/LoginSD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/BasePage.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CucumberBDDFramework_20" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zb1Y7WDfyWXYC3Hq5kF83qNQfQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runnerTest.webPages.Hello" />
+      <module name="CucumberBDDFramework_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.webPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify invalid login for multiple users (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberBDDFramework_20" />
+      <option name="NAME_FILTER" value="^Verify invalid login for multiple users$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login for multiple users$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login for multiple users" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify invalid login for multiple users" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberBDDFramework_20" />
+      <option name="NAME_FILTER" value="^Verify invalid login for multiple users$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login for multiple users$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login for multiple users" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify invalid login from messenger page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Messenger.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberBDDFramework_20" />
+      <option name="NAME_FILTER" value="^Verify invalid login from messenger page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login from messenger page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login from messenger page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBDDFramework_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login for multiple users (1)" />
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login from messenger page" />
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login for multiple users" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b212ca5c-a8e4-49ac-95f5-864ad549403f" name="Default Changelist" comment="" />
+      <created>1585093023068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585093023068</updated>
+      <workItem from="1585093024930" duration="6267000" />
+      <workItem from="1585103708198" duration="184000" />
+      <workItem from="1585103914973" duration="29000" />
+      <workItem from="1585103956414" duration="88000" />
+      <workItem from="1585104057145" duration="95000" />
+      <workItem from="1585104164673" duration="102000" />
+      <workItem from="1585104285009" duration="386000" />
+      <workItem from="1585104686580" duration="123000" />
+      <workItem from="1585104815382" duration="73000" />
+      <workItem from="1585104903055" duration="233000" />
+      <workItem from="1585105149661" duration="74000" />
+      <workItem from="1585105238405" duration="98000" />
+      <workItem from="1585105341418" duration="18000" />
+      <workItem from="1585105373389" duration="241000" />
+      <workItem from="1585105618125" duration="1022000" />
+      <workItem from="1585343429000" duration="307000" />
+      <workItem from="1585350262600" duration="6810000" />
+      <workItem from="1585512651187" duration="1023000" />
+      <workItem from="1585516231350" duration="17000" />
+      <workItem from="1585518032701" duration="9000" />
+      <workItem from="1585622279984" duration="22000" />
+      <workItem from="1585677654319" duration="970000" />
+      <workItem from="1585679023774" duration="65000" />
+      <workItem from="1585680087763" duration="4000" />
+      <workItem from="1585695771853" duration="2968000" />
+      <workItem from="1585698793249" duration="91000" />
+      <workItem from="1585699319586" duration="33000" />
+      <workItem from="1585699357478" duration="42000" />
+      <workItem from="1585700754130" duration="521000" />
+      <workItem from="1585933649363" duration="1909000" />
+      <workItem from="1585962360620" duration="288000" />
+      <workItem from="1585964138550" duration="7000" />
+      <workItem from="1585964149267" duration="328000" />
+      <workItem from="1586000742787" duration="589000" />
+      <workItem from="1586001448152" duration="1313000" />
+      <workItem from="1586006845953" duration="730000" />
+      <workItem from="1586038686370" duration="190000" />
+      <workItem from="1586063030597" duration="288000" />
+      <workItem from="1586108849166" duration="14000" />
+      <workItem from="1586108892383" duration="35000" />
+      <workItem from="1586148138236" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585105798693">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.974@0.23.1680.974" timestamp="1585105798693" />
+    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585679041698">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.974@0.23.1680.974" timestamp="1585679041698" />
+    <state x="597" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585105721689">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="597" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.974@0.23.1680.974" timestamp="1585105721689" />
+    <state width="1638" height="630" key="GridCell.Tab.0.bottom" timestamp="1586006841244">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="630" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1586006841244" />
+    <state width="1638" height="630" key="GridCell.Tab.0.center" timestamp="1586006841242">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="630" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1586006841242" />
+    <state width="1638" height="630" key="GridCell.Tab.0.left" timestamp="1586006841239">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="630" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1586006841239" />
+    <state width="1638" height="630" key="GridCell.Tab.0.right" timestamp="1586006841244">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="630" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1586006841244" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom" timestamp="1585107128511">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.974@0.23.1680.974" timestamp="1585107128511" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center" timestamp="1585107128511">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.974@0.23.1680.974" timestamp="1585107128511" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left" timestamp="1585107128511">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.974@0.23.1680.974" timestamp="1585107128511" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right" timestamp="1585107128511">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.974@0.23.1680.974" timestamp="1585107128511" />
+    <state x="341" y="149" key="SettingsEditor" timestamp="1585354928407">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="341" y="149" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1585354928407" />
+    <state x="499" y="144" width="681" height="732" key="find.popup" timestamp="1586006881305">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="499" y="144" width="681" height="732" key="find.popup/0.23.1680.974@0.23.1680.974" timestamp="1586006881305" />
+    <state x="505" y="235" width="670" height="675" key="run.anything.popup" timestamp="1586006585259">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="505" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.974@0.23.1680.974" timestamp="1586006585259" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1585105870774">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.974@0.23.1680.974" timestamp="1585105870774" />
+  </component>
+</project>

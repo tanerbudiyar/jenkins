@@ -1,0 +1,64 @@
+{
+  "uid" : "97202de3523f4754",
+  "name" : "And I enter wer1233 into password text fields on home screen",
+  "fullName" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |.And I enter wer1233 into password text fields on home screen",
+  "historyId" : "cc91f55d8daa7a72b61c19bce51936ca",
+  "time" : {
+    "start" : 1586006443791,
+    "stop" : 1586006443791,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Login feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Bobs-MBP.fios-router.home"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "thread",
+    "value" : "66598@Bobs-MBP.fios-router.home.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter wer1233 into password text fields on home screen"
+  }, {
+    "name" : "package",
+    "value" : "Verify invalid login for multiple users | hasan@sample.com | wer1233 |"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97202de3523f4754.json",
+  "parameterValues" : [ ]
+}
